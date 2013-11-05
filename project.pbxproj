@@ -25,7 +25,6 @@
 		3E4540951818A5FB00893437 /* PostCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E4540941818A5FB00893437 /* PostCell.m */; };
 		3E45409E18190B7D00893437 /* AddPostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E45409D18190B7D00893437 /* AddPostViewController.m */; };
 		3E45411B181F267B00893437 /* EditPostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E45411A181F267B00893437 /* EditPostViewController.m */; };
-		3E58D7101821DF4000CE6E68 /* BgrColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E58D70F1821DF4000CE6E68 /* BgrColor.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,8 +66,6 @@
 		3E454118181F237900893437 /* AddItemViewControllerDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddItemViewControllerDelegate.h; sourceTree = "<group>"; };
 		3E454119181F267B00893437 /* EditPostViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditPostViewController.h; sourceTree = "<group>"; };
 		3E45411A181F267B00893437 /* EditPostViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditPostViewController.m; sourceTree = "<group>"; };
-		3E58D70E1821DF4000CE6E68 /* BgrColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BgrColor.h; sourceTree = "<group>"; };
-		3E58D70F1821DF4000CE6E68 /* BgrColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BgrColor.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,8 +141,6 @@
 				3E454118181F237900893437 /* AddItemViewControllerDelegate.h */,
 				3E454119181F267B00893437 /* EditPostViewController.h */,
 				3E45411A181F267B00893437 /* EditPostViewController.m */,
-				3E58D70E1821DF4000CE6E68 /* BgrColor.h */,
-				3E58D70F1821DF4000CE6E68 /* BgrColor.m */,
 			);
 			path = "HW2 SocialMediaApp";
 			sourceTree = "<group>";
@@ -283,7 +278,6 @@
 				3E45408F18189E6600893437 /* PostViewController.m in Sources */,
 				3E4540921818A1B400893437 /* Post.m in Sources */,
 				3E4540951818A5FB00893437 /* PostCell.m in Sources */,
-				3E58D7101821DF4000CE6E68 /* BgrColor.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
